@@ -48,7 +48,7 @@ I enjoy creating **clean UI, smooth user experiences, and well-structured code**
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,xcode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,postman,figma,xcode" />
 </p>
 
 ---
