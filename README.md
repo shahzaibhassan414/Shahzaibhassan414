@@ -51,9 +51,6 @@ My goal is to continue growing beyond mobile development and become a well-round
   <a href="https://www.linkedin.com/in/shahzaib-dev-flutter/">
     <img src="https://img.shields.io/badge/LinkedIn-Shahzaib%20Hassan-6CB4EE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shahzaibhassan414">
-    <img src="https://img.shields.io/badge/GitHub-Profile-2F3E46?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
