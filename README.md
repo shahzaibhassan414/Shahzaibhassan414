@@ -1,7 +1,7 @@
 # Hi, I'm Shahzaib Hassan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=650&lines=Flutter+Mobile+App+Developer;4%2B+Years+of+Experience;Building+Smooth+Android+%26+iOS+Experiences;Growing+Towards+Full+Stack+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=650&lines=Flutter+Mobile+App+Developer;4+Years+of+Experience;Building+Smooth+Android+%26+iOS+Experiences;Growing+Towards+Full+Stack+Development" />
 </p>
 
 <p align="center">
