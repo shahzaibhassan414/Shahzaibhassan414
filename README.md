@@ -1,68 +1,78 @@
-# 👋 Hello, I'm Shahzaib
+# Hi, I'm Shahzaib Hassan 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+App+Developer;3%2B+Years+Experience;Building+Android+%26+iOS+Apps;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=650&lines=Flutter+Mobile+App+Developer;4%2B+Years+of+Experience;Building+Smooth+Android+%26+iOS+Experiences;Growing+Towards+Full+Stack+Development" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shahzaibhassan414&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shahzaibhassan414&label=Profile+Views&color=6CB4EE&style=flat" />
 </p>
 
 ---
 
-## 📱 About Me
-I'm a passionate **Flutter Mobile App Developer** with 3+ years of experience building scalable, high-performance mobile applications for **Android & iOS**.
+## About Me
 
-I enjoy creating **clean UI, smooth user experiences, and well-structured code** using modern Flutter architecture and best development practices.
+I am a Flutter Mobile App Developer with **4 years of experience** building reliable, scalable, and user-friendly applications for Android and iOS.
 
----
+I enjoy turning ideas into polished mobile experiences through clean UI, smooth performance, thoughtful architecture, and maintainable code.
 
-## 🚀 Currently Learning & Improving
-- Advanced Flutter architecture
-- State management (GetX / Provider / Bloc)
-- Backend integration & APIs
-- Firebase services
-- Moving towards **Full Stack Development**
+My goal is to continue growing beyond mobile development and become a well-rounded **Full Stack Developer**.
 
 ---
 
-## 💬 Ask Me About
-- Flutter & Dart development
-- Cross-platform mobile apps
+## What I Work With
+
+- Flutter & Dart
+- Android and iOS app development
 - REST API integration
-- Firebase (Auth, Firestore, Notifications)
-- App Store & Play Store deployment
+- Firebase Authentication, Firestore & Notifications
+- State management with Provider, GetX and Bloc
+- App Store & Google Play Store deployment
+- Clean UI and responsive mobile design
 
 ---
 
-## 🌐 Connect With Me
+## Currently Exploring
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://www.shahzaib-dev.site/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahzaib%20Hassan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahzaib-dev-flutter/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/shahzaibhassan414)
+- Advanced Flutter architecture
+- Scalable state management patterns
+- Backend development and APIs
+- Firebase services and cloud integrations
+- Full Stack Development
 
 ---
 
-## 🛠️ Languages and Tools
+## Connect With Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,postman,figma,xcode" />
+<p align="left">
+  <a href="https://www.shahzaib-dev.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6CB4EE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahzaib-dev-flutter/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahzaib%20Hassan-6CB4EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shahzaibhassan414">
+    <img src="https://img.shields.io/badge/GitHub-Profile-2F3E46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Fun Fact
-I enjoy transforming **complex ideas into smooth and user-friendly mobile applications** using Flutter.
+## Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,postman,figma,xcode" />
+</p>
 
 ---
 
-## ✍️ Dev Quote
+## A Small Note
 
-> "**First, solve the problem. Then, write the code.**"  
-> — *John Johnson*
+> Building apps is not only about writing code.  
+> It is about making someone's experience simpler, smoother, and better.
 
 ---
 
-✨ Thanks for visiting my GitHub profile ✨
+<p align="center">
+  Thanks for visiting my profile ✨
+</p>
