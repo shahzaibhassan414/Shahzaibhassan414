@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahzaibhassan414&label=Profile+Views&color=6CB4EE&style=flat-square" alt="Shahzaib Hassan Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=shahzaibhassan414&label=Profile+Views&color=6CB4EE&style=flat" />
+
 </p>
+
+
 
 ---
 
